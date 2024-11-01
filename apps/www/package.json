@@ -33,11 +33,11 @@
     "gray-matter": "^4.0.3",
     "lottie-light-react": "^2.4.0",
     "markdown-toc": "^1.2.0",
-    "next": "^13.5.6",
+    "next": "^14.2.10",
     "next-mdx-remote": "^4.4.1",
     "next-seo": "^5.14.1",
     "next-themes": "^0.2.1",
-    "octokit": "^2.0.14",
+    "octokit": "^3.1.2",
     "parse-numeric-range": "^1.3.0",
     "react": "^18.2.0",
     "react-copy-to-clipboard": "^5.1.0",
@@ -77,7 +77,7 @@
     "@types/three": "^0.136.0",
     "autoprefixer": "^10.4.14",
     "config": "*",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.47",
     "tsconfig": "*"
   },
   "license": "MIT"
